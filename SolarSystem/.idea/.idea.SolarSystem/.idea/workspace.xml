@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e62d041d-804a-4c59-b1c3-69fb8fe5e4a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CelestialBody.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Universe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Solar-System/Assets/Scripts/Debug/OrbitDebugDisplay.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/CelestialBodyEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DebugGUI.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/CelestialBodyEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Universe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CelestialBody.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DebugGUI.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dEqySKWlDj4CopobPKbwtrKyK5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e62d041d-804a-4c59-b1c3-69fb8fe5e4a3" name="Default Changelist" comment="" />
+      <created>1592000854831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592000854831</updated>
+      <workItem from="1592000858447" duration="4293000" />
+      <workItem from="1592086222971" duration="5278000" />
+      <workItem from="1592156624574" duration="8398000" />
+      <workItem from="1592166360876" duration="8483000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state width="498" height="445" key="SwitcherDM" timestamp="1592166153245">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="498" height="445" key="SwitcherDM/0.0.2560.1400/2560.-489.1080.1880@0.0.2560.1400" timestamp="1592166153245" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1592086783437">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400/2560.-489.1080.1880@0.0.2560.1400" timestamp="1592086783437" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1592166156473">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.-489.1080.1880@0.0.2560.1400" timestamp="1592166156473" />
+  </component>
+</project>
